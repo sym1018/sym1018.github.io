@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title></title>
+      <link href="/2023/04/03/markdown/"/>
+      <url>/2023/04/03/markdown/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p><em>斜体文本</em></p><hr><p><em>斜体文本</em></p><hr><hr><p><strong>粗体文本</strong></p><hr><p><strong>粗体文本</strong><br><em><strong>粗斜体文本</strong></em><br><em><strong>粗斜体文本</strong></em></p><p><del>百度nb</del></p><p><u><strong>百度垃圾</strong></u></p><p>脚注<a href="sym1018.github.io">^sym1018个人主页</a></p><ul><li>第一项</li></ul><ul><li>第二项</li></ul><ul><li>第三项</li></ul><ol><li>第一项<ol><li>第一项第一个</li><li>第一项第二个</li></ol></li><li>第二项<ul><li>第二项第一个</li><li>第二项第一个</li></ul></li><li>第三项</li></ol><blockquote><p>区块引用<br>其一</p><blockquote><p>其一嵌套一<br>其一嵌套二</p></blockquote></blockquote><h3 id="区块列表"><a href="#区块列表" class="headerlink" title="区块列表"></a>区块列表</h3><blockquote><p>区块中使用列表</p><ol><li>第一项</li><li>第二项</li></ol><ul><li>第一项</li><li>第二项</li><li>第三项</li></ul></blockquote><h3 id="列表区块"><a href="#列表区块" class="headerlink" title="列表区块"></a>列表区块</h3><ul><li>第一项<blockquote><p>1<br>22</p></blockquote></li><li>第二项</li></ul><p><code>printf()</code> 函数</p><pre><code class="hljs C"><span class="hljs-meta">#<span class="hljs-keyword">include</span> <span class="hljs-string">"stdio.h"</span></span><span class="hljs-built_in">printf</span>(sym1018);</code></pre><p>如你所见,这是我的个人主页<a href="sym1018.github,io">sym1018个人主页</a></p><p><a href="http://www.sym1018.github.io/">http://www.sym1018.github.io/</a>也可以</p><p>这个链接用 1 作为网址变量 <a href="http://www.google.com/">Google</a><br>这个链接用 2 作为网址变量 <a href="http://www.sym1018.github.io/">sym1018个人主页</a><br>然后在文档的结尾为变量赋值（网址）</p><img src="../iamge/black_100x100.png" alt="纯黑" style="zoom:25%;"><p><img src="/%22../iamge/black_100x100.png%22" alt="纯黑" title="纯黑"></p><p>这个链接用 1 作为网址变量 <a href="../iamge/black_100x100.png">纯黑</a>.<br>然后在文档的结尾为变量赋值（网址）</p><img src="../iamge/black_100x100.png" width="50%"><table><thead><tr><th>表头</th><th>表头</th></tr></thead><tbody><tr><td>单元格</td><td>单元格</td></tr><tr><td>单元格</td><td>单元格</td></tr></tbody></table><table><thead><tr><th align="left">左对齐</th><th align="right">右对齐</th><th align="center">居中对齐</th></tr></thead><tbody><tr><td align="left">单元格</td><td align="right">单元格</td><td align="center">单元格</td></tr><tr><td align="left">单元格</td><td align="right">单元格</td><td align="center">单元格</td></tr></tbody></table>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
