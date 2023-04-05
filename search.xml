@@ -52,7 +52,9 @@
       
         <tags>
             
-            <tag> acgnm,game </tag>
+            <tag> acgnm </tag>
+            
+            <tag> game </tag>
             
         </tags>
       
@@ -90,7 +92,9 @@
       
         <tags>
             
-            <tag> acgnm,animate </tag>
+            <tag> acgnm </tag>
+            
+            <tag> animate </tag>
             
         </tags>
       
@@ -109,7 +113,9 @@
       
         <tags>
             
-            <tag> study,markdown </tag>
+            <tag> study </tag>
+            
+            <tag> markdown </tag>
             
         </tags>
       

@@ -6,7 +6,7 @@
   <link href="http://sym1018.github.io/atom.xml" rel="self"/>
   
   <link href="http://sym1018.github.io/"/>
-  <updated>2023-04-05T08:49:44.615Z</updated>
+  <updated>2023-04-05T10:55:09.538Z</updated>
   <id>http://sym1018.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://sym1018.github.io/2023/04/05/tears-of-the-times/"/>
     <id>http://sym1018.github.io/2023/04/05/tears-of-the-times/</id>
     <published>2023-04-05T08:46:24.000Z</published>
-    <updated>2023-04-05T08:49:44.615Z</updated>
+    <updated>2023-04-05T10:55:09.538Z</updated>
     
     <content type="html"><![CDATA[<h1 id="时代的眼泪"><a href="#时代的眼泪" class="headerlink" title="时代的眼泪"></a>时代的眼泪</h1><p>暴走鞋, 文曲星电子词典, PDA, 功能机, 黑蜘蛛刮炮, 邮编简化, 二简字, 口哨, 转笔转书, 三鹿, 雪人兄弟, 复读机(磁带), 小灵通, 笔画输入，五笔, 暖水壶, 拨盘电话, 宏源, 赵本山, 布卡漫画(神知, 知音), 依妹儿, 软驱, 朱德庸, 穹顶之下, 留声机, 赵本山</p>]]></content>
     
@@ -43,7 +43,7 @@
     <link href="http://sym1018.github.io/2023/04/05/phone-degradation-record/"/>
     <id>http://sym1018.github.io/2023/04/05/phone-degradation-record/</id>
     <published>2023-04-05T08:40:17.000Z</published>
-    <updated>2023-04-05T08:44:23.792Z</updated>
+    <updated>2023-04-05T10:55:03.310Z</updated>
     
     <content type="html"><![CDATA[<h1 id="手机退化录"><a href="#手机退化录" class="headerlink" title="手机退化录"></a>手机退化录</h1><p>1.电池不可拆卸,转研究方向为快速充电<br>2.取消sd卡插槽,换位2sim卡插槽或直接取消,升级储存空间价格极贵<br>3.取消3.5mm耳机插槽,从此只能用蓝牙或转接口,充电无法使用有线耳机(无线充电除外)</p>]]></content>
     
@@ -65,7 +65,7 @@
     <link href="http://sym1018.github.io/2023/04/05/game-recommendation/"/>
     <id>http://sym1018.github.io/2023/04/05/game-recommendation/</id>
     <published>2023-04-05T08:38:00.000Z</published>
-    <updated>2023-04-05T08:40:05.072Z</updated>
+    <updated>2023-04-05T10:54:35.659Z</updated>
     
     <content type="html"><![CDATA[<h1 id="游戏推荐"><a href="#游戏推荐" class="headerlink" title="游戏推荐"></a>游戏推荐</h1>]]></content>
     
@@ -78,7 +78,9 @@
     
     
     
-    <category term="acgnm,game" scheme="http://sym1018.github.io/tags/acgnm-game/"/>
+    <category term="acgnm" scheme="http://sym1018.github.io/tags/acgnm/"/>
+    
+    <category term="game" scheme="http://sym1018.github.io/tags/game/"/>
     
   </entry>
   
@@ -87,7 +89,7 @@
     <link href="http://sym1018.github.io/2023/04/05/whimsy/"/>
     <id>http://sym1018.github.io/2023/04/05/whimsy/</id>
     <published>2023-04-05T07:46:44.000Z</published>
-    <updated>2023-04-05T08:37:25.243Z</updated>
+    <updated>2023-04-05T10:55:14.721Z</updated>
     
     <content type="html"><![CDATA[<h1 id="奇思妙想"><a href="#奇思妙想" class="headerlink" title="奇思妙想"></a>奇思妙想</h1><h2 id="二进制"><a href="#二进制" class="headerlink" title="二进制"></a>二进制</h2><p>世界二进制化,包括但不限于,时间二进制化,货币二进制化<br>时间可以重新定规则分类,转为2进制式,非现在的12进制(月,时)/30(天)/60进制(分,秒)<br>例:<br>今天是11111100111/100/101, 现在时间是10000:0</p><h2 id="单位统一"><a href="#单位统一" class="headerlink" title="单位统一"></a>单位统一</h2><p>1.货币统一<br>2.语言统一,可联动幻想1,创建新的语言,利于人机交互<br>例:<br><a href="https://zh.wikipedia.org/wiki/%E6%8B%89%E4%B8%81%E8%AF%AD">拉丁语</a>:语法规范性强<br><a href="https://zh.wikipedia.org/wiki/%E8%8B%B1%E8%AF%AD">英语</a>:适用性最广,便于学习<br><a href="https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD">中文</a>:人数较多,母语,我不用学了<br><a href="https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%AF%AD">世界语</a>:夹带私货推荐,这不去了解一波?</p><h3 id="蒸汽朋克"><a href="#蒸汽朋克" class="headerlink" title="蒸汽朋克"></a>蒸汽朋克</h3><p>蒸汽时代文艺复兴<br>假设未研究出电能或没有合适的运输电能装置,以第一次工业革命为背景的科技发展科技树,世界会变为怎样,just imagine<br>book推荐,from bing<br>《差分机》（The Difference Engine），由威廉·吉布森和布鲁斯·斯特林合著，被认为是蒸汽朋克的鼻祖，描绘了一个以蒸汽机为主导的架空历史世界。<br>《摩罗克之夜》（Morlock Night），由K.W. 杰尔特创作，是第一部使用“蒸汽朋克”这一词汇的小说，讲述了一群维多利亚时代的冒险家与来自未来的摩罗克人作战的故事。<br>《帕迪杜街车站》（Perdido Street Station），由柴那·米耶维创作，是一部新怪谈风格的蒸汽朋克小说，展现了一个充满奇幻和科技的城市新克罗布孙。<br>《发条人偶》（The Windup Girl），由保罗·巴契戈卢皮创作，是一部生物朋克和蒸汽朋克相结合的小说，描述了一个因基因工程而发生巨变的未来世界。<br>《太极之从零开始》（Tai Chi Zero），由陈国富创作，是一部中式蒸汽朋克小说，也是同名电影的原著，讲述了一个天才少年在乾隆时代的武侠冒险。</p><h3 id=""><a href="#" class="headerlink" title=""></a></h3>]]></content>
     
@@ -109,7 +111,7 @@
     <link href="http://sym1018.github.io/2023/04/05/animation-recommendation/"/>
     <id>http://sym1018.github.io/2023/04/05/animation-recommendation/</id>
     <published>2023-04-05T07:05:17.000Z</published>
-    <updated>2023-04-05T07:39:37.871Z</updated>
+    <updated>2023-04-05T10:54:38.913Z</updated>
     
     <content type="html"><![CDATA[<h1 id="补番推荐"><a href="#补番推荐" class="headerlink" title="补番推荐"></a>补番推荐</h1><h4 id="sym1018式评分-以下排名不分先后"><a href="#sym1018式评分-以下排名不分先后" class="headerlink" title="sym1018式评分, 以下排名不分先后."></a>sym1018式评分, 以下排名不分先后.</h4><h2 id="惊艳-5-star"><a href="#惊艳-5-star" class="headerlink" title="惊艳(5 star)"></a>惊艳(5 star)</h2><p>relife/重返十七岁, 春宵苦短,少女前进吧, 四畳半系列(神话大系+时光布鲁斯), 天元突破 红莲螺岩, 重启咲良田, 冰海战记/海盗战记, 不吉波普不笑, 命运石之门系列, 永生之酒, 无头骑士异闻录系列, 阳炎系列(目隐都市的演绎者), 物语系列, 超自然九人组, 斩首循环, 斩服少女/双斩少女, ACCA13区监察课, (怪)化猫, 黄金神威, 凉宫春日系列, megalo box, 我想吃掉你的胰脏/胰脏物语, 奇蛋物语(番外篇除外), 记录的地平线, back arrow, 奇巧计程车, 漂流少年, Rick and Morty, 别对映像研出手, 夏日幻魂, 秋叶原冥途战争, 夏日重现,只有我不存在的城市, 昨日之歌.</p><h3 id="详细介绍"><a href="#详细介绍" class="headerlink" title="详细介绍"></a>详细介绍</h3><h4 id="relife"><a href="#relife" class="headerlink" title="relife"></a>relife</h4><p>如果有个机会让你重返17岁,你会做些什么,这个故事讲述的就是27岁社会人海崎新太,由于和上司起冲突, 第一份工作只做三个月就离职, 也因此找工作处处碰壁, 成为一个尼特族.<br>在某一个夜晚返家的路上, 遇上了自称重生研究所职员的夜明了(27), 夜明了邀请海崎新太作为受试者, 参加为期一年的重生实验研究计划：海崎新太和夜明了皆服用一颗药丸, 服后会变回17岁的外表, 但心智、记忆、体能等皆保持27岁, 然后两人一起入读同一所指定高中的三年级同一班别, 让受试者（海崎新太）重新体验17岁的高中三年级生活, 借由这个“重新开始”的机会, 重新学习、改变自身。同时支援者（夜明了）成为同班同学, 以作观察及支援, 并把受试者的变化、表现及行为, 详记于《重生实验报告书》。<br>受试期间, 受试者的生活费用由重生研究所负责。一年过后, 实验完毕, 受试者会变回服用药丸前的年龄外貌, 重生研究所会参考《重生实验报告书》, 为受试者推荐合适工作。就这样, 漫无目标的海崎新太, 在生活费的诱惑下服用药丸, 以17岁的外表、27岁的内在, 重新返回高中就读三年级。</p><h4 id="春宵苦短-少女前进吧"><a href="#春宵苦短-少女前进吧" class="headerlink" title="春宵苦短,少女前进吧"></a>春宵苦短,少女前进吧</h4><h2 id="好看-4-star"><a href="#好看-4-star" class="headerlink" title="好看(4 star)"></a>好看(4 star)</h2><p>小魔女学院, 踏切时间, 被狙击的学园, 千子, 一周的朋友, 日常, 我的三体系列, 异度入侵/ID:INVADED, 动物狂想曲/BEASTARS, 巴哈姆特之怒系列, 型月系列, 钢之年炼金术士, 玻璃之花与崩坏的世界, 心灵想要大声呼喊, 颠倒的帕特玛, 言叶之庭, 男子高中生的日常, 女子高中生的虚度日常, 碧蓝之海, 终将成为你,博多豚骨拉面团, 阿茹茉妮, 荒川爆笑团, 夏娃的时间, 幸运星, 刀语, 刻刻, 龙的牙医.</p>]]></content>
     
@@ -122,7 +124,9 @@
     
     
     
-    <category term="acgnm,animate" scheme="http://sym1018.github.io/tags/acgnm-animate/"/>
+    <category term="acgnm" scheme="http://sym1018.github.io/tags/acgnm/"/>
+    
+    <category term="animate" scheme="http://sym1018.github.io/tags/animate/"/>
     
   </entry>
   
@@ -131,7 +135,7 @@
     <link href="http://sym1018.github.io/2023/04/05/markdown-exapmle/"/>
     <id>http://sym1018.github.io/2023/04/05/markdown-exapmle/</id>
     <published>2023-04-05T07:02:45.000Z</published>
-    <updated>2023-04-05T08:53:31.765Z</updated>
+    <updated>2023-04-05T10:54:55.689Z</updated>
     
     <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p><em>斜体文本</em></p><hr><p><em>斜体文本</em></p><hr><hr><p><strong>粗体文本</strong></p><hr><p><strong>粗体文本</strong><br><em><strong>粗斜体文本</strong></em><br><em><strong>粗斜体文本</strong></em></p><p><del>百度nb</del></p><p><u><strong>百度垃圾</strong></u></p><p>脚注<a href="sym1018.github.io">^sym1018个人主页</a></p><ul><li>第一项</li></ul><ul><li>第二项</li></ul><ul><li>第三项</li></ul><ol><li>第一项<ol><li>第一项第一个</li><li>第一项第二个</li></ol></li><li>第二项<ul><li>第二项第一个</li><li>第二项第一个</li></ul></li><li>第三项</li></ol><blockquote><p>区块引用<br>其一</p><blockquote><p>其一嵌套一<br>其一嵌套二</p></blockquote></blockquote><h3 id="区块列表"><a href="#区块列表" class="headerlink" title="区块列表"></a>区块列表</h3><blockquote><p>区块中使用列表</p><ol><li>第一项</li><li>第二项</li></ol><ul><li>第一项</li><li>第二项</li><li>第三项</li></ul></blockquote><h3 id="列表区块"><a href="#列表区块" class="headerlink" title="列表区块"></a>列表区块</h3><ul><li>第一项<blockquote><p>1<br>22</p></blockquote></li><li>第二项</li></ul><p><code>printf()</code> 函数</p><pre><code class="hljs C"><span class="hljs-meta">#<span class="hljs-keyword">include</span> <span class="hljs-string">"stdio.h"</span></span><span class="hljs-built_in">printf</span>(<span class="hljs-string">"hello world"</span>);</code></pre><p>如你所见,这是我的个人主页<a href="sym1018.github,io">sym1018个人主页</a></p><p><a href="http://www.sym1018.github.io/">http://www.sym1018.github.io/</a>也可以</p><p>这个链接用 1 作为网址变量 <a href="http://www.google.com/">Google</a><br>这个链接用 2 作为网址变量 <a href="http://www.sym1018.github.io/">sym1018个人主页</a><br>然后在文档的结尾为变量赋值（网址）</p><img src="../iamge/black_100x100.png" alt="纯黑" style="zoom:25%;"><p><img src="/../image/black_100x100.png" alt="纯黑"></p><p>这个链接用 1 作为网址变量 <a href="../image/black_100x100.png">纯黑</a>.<br>然后在文档的结尾为变量赋值（网址）</p><img src="../image/black_100x100.png" width="50%"><table><thead><tr><th>表头</th><th>表头</th></tr></thead><tbody><tr><td>单元格</td><td>单元格</td></tr><tr><td>单元格</td><td>单元格</td></tr></tbody></table><table><thead><tr><th align="left">左对齐</th><th align="right">右对齐</th><th align="center">居中对齐</th></tr></thead><tbody><tr><td align="left">单元格</td><td align="right">单元格</td><td align="center">单元格</td></tr><tr><td align="left">单元格</td><td align="right">单元格</td><td align="center">单元格</td></tr></tbody></table>]]></content>
     
@@ -144,7 +148,9 @@
     
     
     
-    <category term="study,markdown" scheme="http://sym1018.github.io/tags/study-markdown/"/>
+    <category term="study" scheme="http://sym1018.github.io/tags/study/"/>
+    
+    <category term="markdown" scheme="http://sym1018.github.io/tags/markdown/"/>
     
   </entry>
   
