@@ -6,7 +6,7 @@
   <link href="http://sym1018.github.io/atom.xml" rel="self"/>
   
   <link href="http://sym1018.github.io/"/>
-  <updated>2023-04-05T11:06:53.008Z</updated>
+  <updated>2023-04-07T12:46:45.266Z</updated>
   <id>http://sym1018.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>proxy_config</title>
+    <link href="http://sym1018.github.io/2023/04/07/proxy-config/"/>
+    <id>http://sym1018.github.io/2023/04/07/proxy-config/</id>
+    <published>2023-04-07T12:37:24.000Z</published>
+    <updated>2023-04-07T12:46:45.266Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="代理设置"><a href="#代理设置" class="headerlink" title="代理设置"></a>代理设置</h1><h2 id="powershell-proxy"><a href="#powershell-proxy" class="headerlink" title="powershell proxy"></a>powershell proxy</h2><p>需要管理员权限<br>否则 Error writing proxy settings. (5) Access is denied.<br>netsh winhttp show proxy<br>netsh winhttp set proxy 127.0.0.1:7890<br>or<br>netsh winhttp import proxy source=ie</p><p>$env:HTTP_PROXY=”<a href="http://127.0.0.1:7890/">http://127.0.0.1:7890</a>“<br>$env:HTTPS_PROXY=”<a href="https://127.0.0.1:7890/">https://127.0.0.1:7890</a>“</p><p>netsh winhttp reset proxy</p><h3 id="git-proxy"><a href="#git-proxy" class="headerlink" title="git proxy"></a>git proxy</h3><p>git config –global http.proxy 127.0.0.1:7890<br>git config –global https.proxy 127.0.0.1:7890</p><p>git config –global –unset http.proxy<br>git config –global –unset https.proxy </p><h3 id="cmd-proxy"><a href="#cmd-proxy" class="headerlink" title="cmd proxy"></a>cmd proxy</h3><p>netsh winhttp set proxy 127.0.0.1:7890<br>netsh winhttp reset proxy</p><p>set http_proxy=127.0.0.1:7890<br>set https_proxy=127.0.0.1:7890<br>set http_proxy=<br>set https_proxy=</p><h2 id="ubuntu-proxy"><a href="#ubuntu-proxy" class="headerlink" title="ubuntu proxy"></a>ubuntu proxy</h2><p>http_proxy=”127.0.0.1:7890”<br>https_proxy=”127.0.0.1:7890”<br>ftp_proxy=”<a href="ftp://myproxy3.server.com:8080/">ftp://myproxy3.server.com:8080/</a>“<br>socks_proxy=”socks://myproxy4.server.com:8080/“<br>no_proxy=”localhost,127.0.0.1,localaddress,.localdomain.com”</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;代理设置&quot;&gt;&lt;a href=&quot;#代理设置&quot; class=&quot;headerlink&quot; title=&quot;代理设置&quot;&gt;&lt;/a&gt;代理设置&lt;/h1&gt;&lt;h2 id=&quot;powershell-proxy&quot;&gt;&lt;a href=&quot;#powershell-proxy&quot; class=&quot;head</summary>
+      
+    
+    
+    
+    
+    <category term="study" scheme="http://sym1018.github.io/tags/study/"/>
+    
+    <category term="proxy" scheme="http://sym1018.github.io/tags/proxy/"/>
+    
+  </entry>
   
   <entry>
     <title>tears_of_the_times</title>
