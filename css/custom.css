@@ -1,0 +1,16 @@
+/* Footer dark mode: remove blue tint, match background */
+[data-theme="dark"] #footer {
+  background: var(--global-bg, #0d0d0d);
+}
+
+[data-theme="dark"] #footer .footer-other {
+  background: transparent;
+}
+
+[data-theme="dark"] #footer a {
+  color: #ccc;
+}
+
+[data-theme="dark"] #footer a:hover {
+  color: #fff;
+}
