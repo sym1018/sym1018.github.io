@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
-  // Remove announcement bullhorn icon
-  document.querySelectorAll('#card-announcement .fa-bullhorn').forEach(function (el) {
-    el.remove();
+  // Remove fa-shake class from announcement icon to stop flashing
+  document.querySelectorAll('.fa-shake').forEach(function (el) {
+    el.classList.remove('fa-shake');
   });
 });
