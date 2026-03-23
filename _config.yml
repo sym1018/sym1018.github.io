@@ -104,4 +104,4 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/sym1018/sym1018.github.io.git
-  branch: main
+  branch: gh-pages
