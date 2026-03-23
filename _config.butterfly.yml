@@ -1,0 +1,197 @@
+# Navigation menu
+menu:
+  Home: / || fas fa-home
+  Archives: /archives/ || fas fa-archive
+  Tags: /tags/ || fas fa-tags
+  Categories: /categories/ || fas fa-folder-open
+  List||fas fa-list:
+    Music: /music/ || fas fa-music
+    Gallery: /Gallery/ || fas fa-images
+    Movie: /movies/ || fas fa-video
+  Link: /link/ || fas fa-link
+  About: /about/ || fas fa-heart
+
+# Site meta
+site_name: "sym1018's blog"
+favicon: /img/favicon.png
+
+# Avatar
+avatar:
+  img: /img/black_100x100.png
+  effect: false
+
+# Social icons
+social:
+  fab fa-github: https://github.com/sym1018 || github
+  fas fa-envelope: mailto:symzjs@gmail.com || email
+  fa-brands fa-qq: /none || qq@1148070502
+  fa-brands fa-discord: https://discord.com/channels/1093125002393563247/1093125003089809430 || discord
+  fa-brands fa-twitter: https://twitter.com/sym101810 || twitter
+
+# Top image
+index_img: /img/63671168_p0.jpg
+default_top_img: /img/63671168_p0.jpg
+archive_img: /img/63671168_p0.jpg
+tag_img: /img/63671168_p0.jpg
+category_img: /img/63671168_p0.jpg
+
+# Cover
+cover:
+  index_enable: true
+  aside_enable: true
+  archives_enable: true
+  position: both
+  default_cover:
+    - /img/63377560_p0.jpg
+    - /img/63671168_p0.jpg
+    - /img/63966250_p0.jpg
+    - /img/64080888_p0.jpg
+    - /img/64273787_p0.jpg
+    - /img/64782459_p0.jpg
+    - /img/65353318_p0.jpg
+    - /img/65733091_p0.jpg
+    - /img/68220108_p0.jpg
+    - /img/68714743_p0.jpg
+    - /img/70222699_p0.jpg
+    - /img/70403890_p0.jpg
+    - /img/70576249_p0.jpg
+    - /img/72974883_p0.jpg
+    - /img/75760518_p0.jpg
+    - /img/81515457_p0.jpg
+    - /img/81707714_p0.jpg
+    - /img/81707742_p0.jpg
+    - /img/81707792_p0.jpg
+    - /img/82327715_p0.jpg
+    - /img/illust_69250814_20201017_080824.jpg
+    - /img/illust_71820780_20201017_080826.jpg
+    - /img/illust_72278604_20201017_081023.jpg
+    - /img/illust_73460325_20201017_080827.jpg
+    - /img/illust_73636925_20201017_020049.jpg
+    - /img/illust_74104007_20190426_100203.jpg
+    - /img/illust_74233258_20190508_023623.jpg
+    - /img/illust_76329867_20201018_170228.jpg
+    - /img/illust_77032611_20201017_020209.jpg
+    - /img/illust_78512253_20201017_013531.jpg
+    - /img/illust_78616458_20201017_021002.jpg
+    - /img/illust_79013943_20201017_020721.jpg
+    - /img/illust_80911646_20201017_015441.jpg
+    - /img/illust_81584949_20201017_014908.jpg
+    - /img/illust_81619393_20201017_021108.jpg
+    - /img/illust_81772745_20201017_020732.jpg
+    - /img/illust_82144387_20201017_020443.jpg
+    - /img/illust_82314947_20201017_020323.jpg
+    - /img/illust_82583938_20201017_014948.jpg
+    - /img/illust_82681279_20201017_020107.jpg
+    - /img/illust_82880706_20201017_015228.jpg
+    - /img/illust_83165972_20201018_144703.jpg
+    - /img/illust_83372096_20201017_080656.jpg
+    - /img/illust_83438604_20201017_014944.jpg
+    - /img/illust_83643060_20201017_020114.jpg
+    - /img/illust_83644151_20201017_015658.jpg
+    - /img/illust_83800932_20201017_013317.jpg
+    - /img/illust_84035784_20201018_165011.jpg
+    - /img/illust_84163399_20201018_144457.jpg
+    - /img/illust_84209440_20201017_020219.jpg
+    - /img/illust_84226563_20201018_144234.jpg
+    - /img/illust_84255793_20201017_014031.jpg
+    - /img/illust_84262141_20201017_020040.jpg
+    - /img/illust_84327200_20201017_081151.jpg
+    - /img/illust_84725709_20201017_020740.jpg
+    - /img/illust_84741721_20201017_014026.jpg
+    - /img/illust_81772745_20201017_020732.jpg
+
+# Error page
+error_404:
+  enable: true
+  subtitle: "Page Not Found"
+  background: /img/404.jpg
+
+# Dark mode
+# autoChangeMode: 1 = follow system prefers-color-scheme, 2 = follow time (6:00-18:00)
+darkmode:
+  enable: true
+  button: true
+  autoChangeMode: 1
+
+# Preloader (loading animation)
+preloader:
+  enable: true
+  source: 1
+  pace_css_url:
+
+# Footer
+footer:
+  owner:
+    enable: true
+    since: 2018
+  custom_text: welcome to my blog!
+  copyright: true
+
+# Aside
+aside:
+  enable: true
+  card_author:
+    enable: true
+    description: "UTC+8, 16 years old forever."
+    button:
+      enable: true
+      icon: fab fa-github
+      text: Follow Me
+      link: https://github.com/sym1018
+  card_announcement:
+    enable: true
+    content: This is my Blog
+  card_recent_post:
+    enable: true
+    limit: 5
+  card_tags:
+    enable: true
+  card_archives:
+    enable: true
+  card_webinfo:
+    enable: true
+
+# Translate (simplified/traditional Chinese)
+translate:
+  enable: true
+  default: 简
+  defaultEncoding: 2
+  translateDelay: 0
+
+# Word count & reading time
+wordcount:
+  enable: true
+  post_wordcount: true
+  min2read: true
+  total_wordcount: true
+
+# Rightside buttons
+rightside_item_order:
+  enable: false
+
+# FancyBox (image lightbox)
+fancybox: true
+
+# Pjax
+pjax:
+  enable: true
+
+# Theme color
+theme_color:
+  enable: true
+  dark: '#0d0d0d'
+
+# Busuanzi (visit counter)
+busuanzi:
+  site_uv: true
+  site_pv: true
+  page_pv: true
+
+# Custom inject
+inject:
+  head:
+    - <link rel="stylesheet" href="/css/back-btn.css">
+    - <link rel="stylesheet" href="/css/custom.css">
+  bottom:
+    - <script src="/js/back-btn.js"></script>
+    - <script src="/js/custom.js"></script>

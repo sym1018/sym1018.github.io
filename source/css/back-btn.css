@@ -1,0 +1,40 @@
+.back-btn {
+  position: fixed;
+  top: 16px;
+  left: 16px;
+  z-index: 1000;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 14px;
+  border: none;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(8px);
+  color: #333;
+  font-size: 14px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: background 0.2s, box-shadow 0.2s;
+  text-decoration: none;
+}
+
+.back-btn:hover {
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+  color: #333;
+}
+
+.back-btn .back-arrow {
+  font-size: 16px;
+}
+
+[data-theme="dark"] .back-btn {
+  background: rgba(50, 50, 50, 0.75);
+  color: #ccc;
+}
+
+[data-theme="dark"] .back-btn:hover {
+  background: rgba(50, 50, 50, 0.95);
+  color: #eee;
+}
