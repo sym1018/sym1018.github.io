@@ -14,3 +14,8 @@
 [data-theme="dark"] #footer a:hover {
   color: #fff;
 }
+
+/* Disable announcement flashing animation */
+#card-announcement .item-headline i {
+  animation: none !important;
+}
