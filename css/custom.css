@@ -16,6 +16,6 @@
 }
 
 /* Disable announcement flashing animation */
-#card-announcement .item-headline i {
+#card-announcement .fa-shake {
   animation: none !important;
 }
