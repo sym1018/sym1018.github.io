@@ -14,12 +14,3 @@
 [data-theme="dark"] #footer a:hover {
   color: #fff;
 }
-
-/* Disable announcement flashing animation */
-.fa-shake,
-i.fa-shake,
-.fas.fa-shake,
-i.fas.fa-bullhorn.fa-shake {
-  animation: none !important;
-  --fa-animation-iteration-count: 0;
-}
