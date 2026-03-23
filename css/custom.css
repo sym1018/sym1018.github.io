@@ -16,6 +16,10 @@
 }
 
 /* Disable announcement flashing animation */
-#card-announcement .fa-shake {
+.fa-shake,
+i.fa-shake,
+.fas.fa-shake,
+i.fas.fa-bullhorn.fa-shake {
   animation: none !important;
+  --fa-animation-iteration-count: 0;
 }
